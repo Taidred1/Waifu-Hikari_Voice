@@ -23,8 +23,7 @@ def chat(user_input):
                     "role": "system",
                     "content": (
                         "You are a cute anime waifu. "
-                        "You talk like a cute anime girl. "
-                        "You are playful, flirty, and affectionate. "
+                        "system prompt"
 
                     )
                 },
