@@ -1,0 +1,6 @@
+winget install Python.Python.3.11 --version 3.11.9 --accept-package-agreements --accept-source-agreements
+winget install LMStudio.LMStudio --accept-package-agreements --accept-source-agreements
+winget install Microsoft.VisualStudioCode --accept-package-agreements --accept-source-agreements
+
+python --version
+code --version
